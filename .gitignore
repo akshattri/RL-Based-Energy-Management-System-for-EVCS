@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# MATLAB / Simulink
+slprj/
+*.slxc
+*.slx.autosave*
+*.slx.original
+*.slx.r2023a
+*.asv
+*.m~
+EVCS_model_v2(1).slx
+"EVCS_model (1).slx"
+
+# Generated artifacts
+data/sim_runs/
+data/_run_demo_trigger.m
+
+# Cached API responses (keep locally for offline demos; exclude from repo to stay light)
+data/geocode_*.json
+data/weather_*.json
+
+# OS
+.DS_Store
+Thumbs.db

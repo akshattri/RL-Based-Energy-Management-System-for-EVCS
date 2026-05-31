@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+requests
+pytz
+joblib
+tensorflow>=2.16
+statsmodels
+gymnasium>=0.29
+stable-baselines3>=2.3.0
+streamlit
