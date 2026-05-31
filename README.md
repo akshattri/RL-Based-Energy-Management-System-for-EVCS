@@ -95,7 +95,7 @@ and the balance shifts automatically with the available headroom in each regime.
 ### 1. Install
 
 ```bash
-git clone https://github.com/<your-username>/ems_demo.git
+git clone https://github.com/akshattri/RL-Based-Energy-Management-System-for-EVCS.git
 cd ems_demo
 pip install -r requirements.txt
 ```
